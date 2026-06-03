@@ -1,1 +1,1 @@
-console.log("Cambio de prueba para reset/revert");
+console.log("Mini projecte Git inicial");
